@@ -5,7 +5,7 @@
 }
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: #231f20;
     color: white;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@
     height: 50px;
     width: 100px;
 }
-.logo{
+.logo1{
     background-image: url(amazon_logo1.png);
     background-size: cover;
     height: 50px;
@@ -208,7 +208,7 @@ ul a{
     color: #dddddd;
 }
 .foot-panel3{
-    background-color: #222f3d;
+    background-color: #233448;
     color:white;
     border-top: 0.5px solid white; 
     height: 70px;
@@ -217,7 +217,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url(amazon_logo1.png);
+    background-image: url(amazon_logo.jpg);
     background-size: cover;
     height: 50px;
     width: 100px;
